@@ -1,0 +1,6 @@
+#node specific
+node_modules/
+
+#system files.
+.env
+
